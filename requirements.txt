@@ -1,0 +1,6 @@
+Flask
+SpeechRecognition
+requests
+edge-tts
+pydub
+python-dotenv
