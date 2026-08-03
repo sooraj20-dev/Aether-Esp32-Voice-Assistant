@@ -1,6 +1,10 @@
-Flask
-SpeechRecognition
-requests
-edge-tts
-pydub
+fastapi
+uvicorn[standard]
+httpx
 python-dotenv
+faster-whisper
+numpy
+scipy
+piper-tts
+onnxruntime
+zeroconf==0.38.7
